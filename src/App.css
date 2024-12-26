@@ -1,0 +1,10 @@
+.btn{
+ 
+  border-radius: 10px;
+  font-size: xx-small;
+}
+.btndiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
